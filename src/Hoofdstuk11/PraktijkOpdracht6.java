@@ -6,6 +6,8 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
+//Credits naar Frits zijn hulp
+
 public class PraktijkOpdracht6 extends Applet{
 
     TextField input;
